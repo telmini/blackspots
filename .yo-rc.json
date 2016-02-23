@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "blackspots",
+    "packageName": "com.ooredoo.blackspots",
+    "packageFolder": "com/ooredoo/blackspots",
+    "authenticationType": "xauth",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": false,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "fc7bfdadc504b41ff2c026edda2dd8dd09b11352",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}
